@@ -203,7 +203,7 @@ A web-based application for managing user access to software applications within
 3. User is redirected to the Login Page.
 
 **Visual Example**:
-![Sign-Up Page]((https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/1.png))
+![Sign-Up Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/1.png)
 
 ---
 
@@ -235,7 +235,7 @@ A web-based application for managing user access to software applications within
   - Inserts a new access request into the `requests` table.
 
 **Visual Example**:
-![Access Request Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/Pending Requests.png)
+![Access Request Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/Pending Request.png)
 
 
 ---
@@ -251,7 +251,7 @@ A web-based application for managing user access to software applications within
 3. Servlet updates the request status in the database.
 
 **Visual Example**:
-![Pending Requests Page](path/to/pending_requests_page.png)
+![Pending Requests Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/request.png)
 
 ---
 
@@ -265,7 +265,7 @@ A web-based application for managing user access to software applications within
 2. Servlet inserts the software details into the `software` table.
 
 **Visual Example**:
-![Software Creation Page](path/to/software_creation_page.png)
+![Software Creation Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/createsoftware.png)
 
 ---
 
