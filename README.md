@@ -235,7 +235,7 @@ A web-based application for managing user access to software applications within
   - Inserts a new access request into the `requests` table.
 
 **Visual Example**:
-![Access Request Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/Pending Request.png)
+![Access Request Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/PendingRequest.png)
 
 
 ---
@@ -251,7 +251,7 @@ A web-based application for managing user access to software applications within
 3. Servlet updates the request status in the database.
 
 **Visual Example**:
-![Pending Requests Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/request.png)
+![Pending Requests Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/Request.png)
 
 ---
 
