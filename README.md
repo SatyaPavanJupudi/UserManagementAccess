@@ -203,7 +203,7 @@ A web-based application for managing user access to software applications within
 3. User is redirected to the Login Page.
 
 **Visual Example**:
-![Sign-Up Page](1.png)
+![Sign-Up Page]((https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/1.png))
 
 ---
 
@@ -221,8 +221,7 @@ A web-based application for managing user access to software applications within
    - Admin → `createSoftware.jsp`
 
 **Visual Example**:
-![Login Page](path/to/login_page.png)
-![Role-Based Redirection](path/to/role_based_flow.png)
+![Login Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/admin.png)
 
 ---
 
@@ -236,8 +235,8 @@ A web-based application for managing user access to software applications within
   - Inserts a new access request into the `requests` table.
 
 **Visual Example**:
-![Access Request Page](path/to/access_request_page.png)
-![Request Flow](path/to/request_flow.png)
+![Access Request Page](https://github.com/SatyaPavanJupudi/UserManagementAccess/blob/main/images/Pending Requests.png)
+
 
 ---
 
